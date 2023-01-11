@@ -1,0 +1,17 @@
+/* *{
+  margin: 0;
+} */
+body{
+  background-image: url(https://m.media-amazon.com/images/I/413t0Lmpy+L._AC_.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
